@@ -1,0 +1,2 @@
+# AWS_SA_Professional_Cert
+Practical material to prepare for AWS_Solution_Architect_Professional Certification
